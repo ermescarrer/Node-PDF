@@ -14,6 +14,7 @@ var connectionOption = {
     multipleStatements: true
 }
 var con = mysql.createConnection(connectionOption);
+// dei cardcode per esempio
 var cardcode = '1011361,1075280';
 var eventcode = 'ECS17';
 var event_typ = eventcode.substr(0, 3);

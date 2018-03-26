@@ -8,7 +8,7 @@ var fs = require('fs');
         var leftMargin              = 0;
         var topMargin               = 10;
 
-
+// un testo di esempio
  var lorem = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in suscipit purus.  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus nec hendrerit felis. Morbi aliquam facilisis risus eu lacinia. Sed eu leo in turpis fringilla hendrerit. Ut nec accumsan nisl.'
 
  doc.fontSize(9).text('Wally Gator !', 5, 10);
