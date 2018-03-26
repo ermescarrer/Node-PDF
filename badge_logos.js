@@ -24,7 +24,7 @@ Badge_logos.prototype.get_current_event_logo = function() {
     }
 }
 Badge_logos.prototype.get_XDS = function() {
-
+// SVG code
 return `<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 width="306.227px" height="32.84px" viewBox="0 0 306.227 32.84" enable-background="new 0 0 306.227 32.84" xml:space="preserve">
 <g>
