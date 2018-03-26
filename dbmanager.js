@@ -1,6 +1,7 @@
 //  This is a Constructor function taking age and passport 
 //  as the paramaters
 
+// Let change Again
 var mysql = require('mysql');
 var con = mysql.createConnection({
     host: "10.0.0.18",
@@ -18,7 +19,6 @@ Dbmanager.prototype.OnDataFetch = function(nachname) {
 
 
 Dbmanager.prototype.getKundenData = function(cardcode) {
-    // fdfsd
    con.connect(function(err) {
         if (err) throw err;
         
